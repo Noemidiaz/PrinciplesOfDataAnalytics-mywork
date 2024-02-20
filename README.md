@@ -1,6 +1,6 @@
 # PrinciplesOfDataAnalytics-mywork
 
-**by Noemi Diaz **
+** by Noemi Diaz **
 
 I study at [ATU](https://www.atu.ie/).
 
